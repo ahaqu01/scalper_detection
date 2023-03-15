@@ -106,7 +106,7 @@ video_root：如果visual值为True，那么需要设置一个可视化结果的
 
 接口请求参数如下
 
-![request](images/request.png)
+![request](images/request.png](https://raw.githubusercontent.com/ahaqu01/scalper_detection/main/images/request.png)
 
 接口返回值如下
 
