@@ -60,7 +60,7 @@
 
 ## 四、使用方法
 
-1）首先使用git clone --recurse-submodules https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/scalper_det.git下载本黄牛检测算法
+1）首先使用git clone --recurse-submodules https://github.com/ahaqu01/scalper_detection.git下载本黄牛检测算法
 
 2）然后按照二中的说明，进行相关环境的搭建
 
