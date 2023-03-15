@@ -1,0 +1,7 @@
+*.pyc
+*.mp4
+*.log
+*.out
+*.hdf5
+.idea/
+src/.idea/
