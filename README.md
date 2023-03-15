@@ -98,7 +98,7 @@ video_root：如果visual值为True，那么需要设置一个可视化结果的
 
 相关字段介绍如下：
 
-![](images/api_out.png)
+![](https://github.com/ahaqu01/scalper_detection/blob/main/images/api_out.png)
 
 ### 4.2. 作为服务使用
 
